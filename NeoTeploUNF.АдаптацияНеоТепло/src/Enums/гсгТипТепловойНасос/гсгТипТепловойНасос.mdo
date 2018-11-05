@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5077a253-ad24-4f57-9a58-2dcf1ea7e0ba">
+  <producedTypes>
+    <refType typeId="30b3a7b1-a57b-47ba-a49b-0ecdddfa2432" valueTypeId="c112ff1c-c23d-4f73-ab7a-edc6a8285377"/>
+    <listType typeId="76126b74-2f86-4782-85a5-b3dfa538d051" valueTypeId="3504043c-44fb-4880-81df-11cc9545207c"/>
+    <managerType typeId="ccb8b318-7b99-4e66-95f3-c76419a9a1fb" valueTypeId="7f4042bd-da8d-44f5-83a8-ee6372f70bf5"/>
+  </producedTypes>
+  <name>гсгТипТепловойНасос</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

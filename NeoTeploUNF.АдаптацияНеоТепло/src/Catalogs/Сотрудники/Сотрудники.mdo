@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="2f14a7c5-1eb2-4542-8076-39e7a27a00e8">
+  <producedTypes>
+    <objectType typeId="9de9a440-0ef5-40e1-aad8-39267b7558ed" valueTypeId="82f276af-c657-407a-a0bd-42d4111b49fe"/>
+    <refType typeId="f1968366-733c-4443-b30e-ec3f5f5745c3" valueTypeId="e32f24b0-1d98-40e2-9fc2-023bc1d512f3"/>
+    <selectionType typeId="54a8328c-bf65-422e-a661-c3a347a7caa0" valueTypeId="c9e305a4-0802-4d5c-9d7c-274abf126967"/>
+    <listType typeId="e0b46b3a-d282-426a-a6c3-1b7b69da847e" valueTypeId="21033b38-27fb-4dd9-81a5-672a583fe249"/>
+    <managerType typeId="653061b2-d751-4c85-bd7e-2e5feda59e4a" valueTypeId="c2644cb0-25e9-4018-9189-73f061c97022"/>
+  </producedTypes>
+  <name>Сотрудники</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <codeLength>Checked</codeLength>
+    <codeType>Checked</codeType>
+    <codeAllowedLength>Checked</codeAllowedLength>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="cc3dba2f-2c5a-4337-bf7f-ecdffc1ccbfe">
+  <producedTypes>
+    <managerType typeId="e3fcf546-9e4f-4e26-943f-84ed46cf6c12" valueTypeId="fd867f2c-9a10-4cf7-8cdd-3639ecd088e8"/>
+    <valueManagerType typeId="b32f67c2-7dbc-4ccd-8063-9bafa368f4cf" valueTypeId="6f0f26db-d259-4237-955e-968eb9f5f977"/>
+  </producedTypes>
+  <name>ФункциональнаяОпцияРезервированиеЗапасов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

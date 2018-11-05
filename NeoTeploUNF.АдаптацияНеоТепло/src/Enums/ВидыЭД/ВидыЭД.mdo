@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ff6d46ca-425e-44a2-988d-5ea6026a5a09">
+  <producedTypes>
+    <refType typeId="66b588ea-908a-4f05-ae18-a0839178fff6" valueTypeId="f3a57e22-6673-41c3-81ad-d1fe890db555"/>
+    <listType typeId="86438a51-0d98-4181-99a8-931ad0ad9391" valueTypeId="0b8f6992-57e8-4045-aecb-695950bf2cbc"/>
+    <managerType typeId="00004130-1db5-4a51-8672-6508f92ea7fa" valueTypeId="bcf5810b-df26-4429-9ae2-ea86ed329991"/>
+  </producedTypes>
+  <name>ВидыЭД</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="8486eb7b-94c5-4bb5-b059-eb8d15ecfb7b">
+    <name>АктИсполнитель</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="34dbbc57-a11a-46a3-a2d7-ae3772bc506b">
+    <name>ТОРГ12Продавец</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="f8f339af-abe6-4436-815b-3f93523640e7">
+    <name>АктНаПередачуПрав</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="52d5bbc3-eede-4422-bb29-67e415ed0a14">
+  <producedTypes>
+    <objectType typeId="acf7c755-a9de-4b80-baf3-b621eac82e1a" valueTypeId="57cf116c-5087-43be-879b-33e04c538f2c"/>
+    <refType typeId="ccb05b7f-be83-4e25-b813-ff2fdcd27541" valueTypeId="3a1dad3b-31e7-42ac-b543-20cbe0acb172"/>
+    <selectionType typeId="1e6e6c0f-f341-4619-9388-e838e33bcc71" valueTypeId="e0717bfb-2b7f-43b2-a0c5-66e73b3ff7a7"/>
+    <listType typeId="9285f317-028c-44a9-bead-1d266b4493b2" valueTypeId="9310946f-e67b-49c7-a76e-7681df15a215"/>
+    <managerType typeId="3809391d-233b-493f-9a50-833cfcd572e1" valueTypeId="8a2d6f06-aff5-4340-8734-2fdbacba974d"/>
+  </producedTypes>
+  <name>НомераГТД</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

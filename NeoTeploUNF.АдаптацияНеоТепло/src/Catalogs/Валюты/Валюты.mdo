@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="86cd1039-5ff6-4aa9-9696-64c5f96ac724">
+  <producedTypes>
+    <objectType typeId="8ab9552e-5eec-4310-a446-b35b61ec1eac" valueTypeId="bb4678ee-cecb-4228-b360-e12432c504fa"/>
+    <refType typeId="982f8834-49ba-43a0-8b15-6bc62ad55a31" valueTypeId="44009bbc-7667-4e3a-80df-d3988fa2193d"/>
+    <selectionType typeId="64cb9a37-f22f-4213-a0e7-dcdea04e2d03" valueTypeId="15c4ff31-76f6-4682-8279-7ea22120354d"/>
+    <listType typeId="f9e007a0-d37a-4d80-af25-5091da2b6c42" valueTypeId="84f407b5-b7e1-4635-bbe8-db2a6d356388"/>
+    <managerType typeId="34640f39-e655-40fd-a025-81146565571e" valueTypeId="d8cca724-164f-4eab-bc7a-ded8716e1802"/>
+  </producedTypes>
+  <name>Валюты</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="0dae7cb1-bb15-4697-b6c6-75ff57faf84b">
+    <name>СимвольноеПредставление</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>3</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

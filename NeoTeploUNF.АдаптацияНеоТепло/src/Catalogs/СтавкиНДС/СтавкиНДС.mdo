@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="bc1430a6-d2f3-4c9a-971d-906d5e01d93f">
+  <producedTypes>
+    <objectType typeId="db290389-c1ab-40ab-9be8-e1c2c89b30bf" valueTypeId="8d27ffd4-420b-41c4-9f17-bfd847f93ecf"/>
+    <refType typeId="6bc8da30-07ce-4007-8cbe-c9f321bd195b" valueTypeId="67d5e3e0-6aa1-4a32-8147-fded97c97f97"/>
+    <selectionType typeId="23a3e59e-d110-4427-9e3b-133c9b491d6e" valueTypeId="a1f11fea-9763-404f-b5f3-e5d96af6dcf4"/>
+    <listType typeId="fea38bd3-e523-4f44-803c-6e69cfb625da" valueTypeId="98969f49-4a6a-4036-8805-a1b3275884ed"/>
+    <managerType typeId="cf915d6d-447a-4179-84ae-99a2a3958513" valueTypeId="4ed95a12-fa8f-40af-9bd4-7feb50986e1a"/>
+  </producedTypes>
+  <name>СтавкиНДС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

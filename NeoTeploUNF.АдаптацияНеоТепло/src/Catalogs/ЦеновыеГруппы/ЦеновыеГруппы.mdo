@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="7418c47d-6b38-4ed3-98d8-18e8e370a77a">
+  <producedTypes>
+    <objectType typeId="b3b3941c-3314-40cc-938f-82e3e8d7a719" valueTypeId="b9ba9bbf-0de8-4e33-935d-a2de9355fdb5"/>
+    <refType typeId="1919da75-90be-4601-afcf-912e2f80b73f" valueTypeId="91baa77d-3029-42fc-a440-7a0ab8df03f7"/>
+    <selectionType typeId="50a1a767-9fe2-4265-9fda-eded9048b25e" valueTypeId="3212d915-ca32-4cdb-a6cd-62813c460914"/>
+    <listType typeId="8a05d278-514d-4665-9aa8-dfc5a25dd7b5" valueTypeId="8300a1ad-0e8a-49e9-b289-93e3b504079f"/>
+    <managerType typeId="3cb0feae-710e-467c-8126-3cbdc75486cd" valueTypeId="1666effd-c5f3-4711-9ca1-184c4d4bb568"/>
+  </producedTypes>
+  <name>ЦеновыеГруппы</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

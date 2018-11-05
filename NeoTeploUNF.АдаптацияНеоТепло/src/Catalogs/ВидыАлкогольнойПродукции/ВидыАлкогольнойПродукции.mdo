@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="52ff74f0-ab5f-48ee-ad93-d67d11c5cb63">
+  <producedTypes>
+    <objectType typeId="c5a379c5-1102-49ab-8989-327cd9ab13df" valueTypeId="ba7a94bd-d265-4ade-837c-2b6b658402e2"/>
+    <refType typeId="728d38c0-7a6a-4a4a-b31f-d33460089675" valueTypeId="34f7845e-6f82-48a1-b644-2eaeda599121"/>
+    <selectionType typeId="e6691b5a-fb95-44d9-a969-8ae6b07c8447" valueTypeId="4ad8475c-2786-4025-9985-51e9d318b898"/>
+    <listType typeId="cf4c0179-493e-4f96-ba95-3d0611f3a078" valueTypeId="920c6018-a456-4bb4-80a7-6c14499e019a"/>
+    <managerType typeId="ce090a5d-b0bb-44c4-b369-99378ea69586" valueTypeId="3d079fed-c4de-4c57-a92e-4e925a0f5e89"/>
+  </producedTypes>
+  <name>ВидыАлкогольнойПродукции</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

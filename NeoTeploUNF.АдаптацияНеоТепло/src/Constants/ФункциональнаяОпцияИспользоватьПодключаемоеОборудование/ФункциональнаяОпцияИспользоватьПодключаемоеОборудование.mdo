@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="aff10d53-bdd9-4f32-b5ba-cf645550121f">
+  <producedTypes>
+    <managerType typeId="f7fe772b-3c27-4f35-acce-4b4da6ef1ae7" valueTypeId="b0546c61-70ce-4132-8c67-1f83e8ed50fa"/>
+    <valueManagerType typeId="e3ad364e-615a-4af9-887d-00234b1bcfac" valueTypeId="66b382a8-0a90-4429-9bc2-e9b230d8c8f4"/>
+  </producedTypes>
+  <name>ФункциональнаяОпцияИспользоватьПодключаемоеОборудование</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

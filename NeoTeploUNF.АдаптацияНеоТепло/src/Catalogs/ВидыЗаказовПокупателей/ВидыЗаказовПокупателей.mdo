@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="1e1f62fb-cb7c-41de-854f-ad92cad51f4f">
+  <producedTypes>
+    <objectType typeId="3a309957-8208-4ead-8449-6ea6356d0483" valueTypeId="81d56b8e-eeea-4bf2-bc23-c3c884c3da43"/>
+    <refType typeId="cd8fc57d-126d-407d-9946-20c0e0f52d13" valueTypeId="ed0b709c-91a1-4980-8883-3bb9ed3f89a7"/>
+    <selectionType typeId="e4568c33-2d66-4ff8-8d2c-2650aee855fc" valueTypeId="6eac10f4-5562-4ebd-86ac-cf7fa4096b2e"/>
+    <listType typeId="ac41645f-7189-4e67-9bbe-94a08def5f19" valueTypeId="c5a2dc1b-38b9-4488-a3ad-8a00015bbdf3"/>
+    <managerType typeId="b48e6e71-5d1c-4219-b462-774917ee81db" valueTypeId="0c393883-58f4-43d6-b7a2-256edf3a1718"/>
+  </producedTypes>
+  <name>ВидыЗаказовПокупателей</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension">
+    <codeLength>Checked</codeLength>
+    <descriptionLength>Checked</descriptionLength>
+    <codeType>Checked</codeType>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="7bff548e-5940-45d8-a7af-a4fcc9e6e7aa">
+    <name>Комментарий</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="d3d94399-55aa-4058-88bb-fb35c2ab4bd4">
+    <producedTypes>
+      <objectType typeId="e6d4ee10-1ad1-4a9a-b484-bfa2ba607eb2" valueTypeId="d39b39ff-f18f-461e-8fcb-7857b5f6c198"/>
+      <rowType typeId="ff6480b0-ad79-48ab-a6bc-e107ef72fdc3" valueTypeId="9eed9375-f14b-466a-ae90-a20e5394bf9e"/>
+    </producedTypes>
+    <name>ПорядокСостояний</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+    <attributes uuid="edca4d95-a83b-4beb-a8d0-df49f659f28a">
+      <name>Состояние</name>
+      <objectBelonging>Adopted</objectBelonging>
+      <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+        <type>Checked</type>
+      </extension>
+      <type>
+        <types>CatalogRef.СостоянияЗаказовПокупателей</types>
+      </type>
+      <dataHistory>Use</dataHistory>
+    </attributes>
+  </tabularSections>
+</mdclass:Catalog>

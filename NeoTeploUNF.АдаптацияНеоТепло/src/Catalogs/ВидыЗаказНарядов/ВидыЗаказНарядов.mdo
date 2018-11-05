@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="bfa2c57a-59f0-4314-b97f-bad74f8c6bbf">
+  <producedTypes>
+    <objectType typeId="b28a76d2-14fc-434b-807a-2396096d46d4" valueTypeId="d9bf150e-0edb-4b44-b230-88cfbf64ad66"/>
+    <refType typeId="71b2d6d3-4738-4f5c-bc06-76acf904f891" valueTypeId="b3e7081b-2cd4-4441-b412-ebfa68afc0a7"/>
+    <selectionType typeId="2381f4a6-1cee-4902-95fe-64b2adf534a5" valueTypeId="c22c6f86-81b4-401d-a936-46e95cdd8d3f"/>
+    <listType typeId="014aaad0-5684-4b50-89b9-4e42243372cd" valueTypeId="8ee541af-74eb-4bbc-b0cd-e63428d95c09"/>
+    <managerType typeId="14f59de6-772a-484c-825e-f3bd411d5dc3" valueTypeId="0e825645-d38e-47b0-817d-baa7948d1a92"/>
+  </producedTypes>
+  <name>ВидыЗаказНарядов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

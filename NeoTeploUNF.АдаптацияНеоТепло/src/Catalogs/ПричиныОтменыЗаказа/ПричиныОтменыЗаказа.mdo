@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="7aa01694-525a-41e8-a74d-1217687e8fb7">
+  <producedTypes>
+    <objectType typeId="1e5f76fc-422d-4590-8193-0a4b0ebbdcae" valueTypeId="cf969a23-4df1-40a1-b85f-700fe207c108"/>
+    <refType typeId="dfe333a3-7ed3-424b-9c5a-bce82041321c" valueTypeId="a4e6daee-7caa-4d06-ab2a-30cfb7ec013f"/>
+    <selectionType typeId="2f0335a2-e30e-4278-9451-74e178eaff8c" valueTypeId="d83477cf-b577-443e-9030-540514cb74e3"/>
+    <listType typeId="f6f54645-c034-41f6-8be4-beed69fc181c" valueTypeId="ea348531-afa0-4228-9c56-368b59fa098a"/>
+    <managerType typeId="e6c68be0-acec-47b1-9cd9-bffcf4c76b7b" valueTypeId="9d05fb45-f1c4-43f4-a6d4-0afd6502e255"/>
+  </producedTypes>
+  <name>ПричиныОтменыЗаказа</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

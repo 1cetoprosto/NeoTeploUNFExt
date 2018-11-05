@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="27aa0d64-61fc-47ba-aa33-8f9db45712eb">
+  <producedTypes>
+    <managerType typeId="0c62ec96-ed9c-43bc-8600-f79758235a26" valueTypeId="6a639b1c-a87a-4c31-8323-697cb9dd2ae6"/>
+    <valueManagerType typeId="cfb2fda8-01b8-45e1-beca-21577d873bad" valueTypeId="5c2e785f-00b5-4eb6-9362-30735d30b076"/>
+  </producedTypes>
+  <name>ФункциональнаяОпцияИспользоватьДисконтныеКарты</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <type>Checked</type>
+  </extension>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

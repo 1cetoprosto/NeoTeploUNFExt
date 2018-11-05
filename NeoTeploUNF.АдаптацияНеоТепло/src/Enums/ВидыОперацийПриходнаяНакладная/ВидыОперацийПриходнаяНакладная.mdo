@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="4c9e1013-2330-4b1e-a2a8-c5dc78daf3fa">
+  <producedTypes>
+    <refType typeId="4d618cfb-6938-4a57-a295-7ee8276b93b2" valueTypeId="b9ae4c38-5107-4d3b-b3b3-6e6cb953fd99"/>
+    <listType typeId="0b879425-4b19-42fa-9321-ca366545186f" valueTypeId="f9c33350-57fa-4fab-b969-4b66e5237857"/>
+    <managerType typeId="a66b3a34-02f3-4b2e-970c-88fbedadd9db" valueTypeId="37c6b2d1-89a2-4ccd-8db7-f1220b3cd228"/>
+  </producedTypes>
+  <name>ВидыОперацийПриходнаяНакладная</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="4c07224d-9ae9-43a5-96bf-a3e9c3eb7182">
+    <name>ПоступлениеОтПоставщика</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

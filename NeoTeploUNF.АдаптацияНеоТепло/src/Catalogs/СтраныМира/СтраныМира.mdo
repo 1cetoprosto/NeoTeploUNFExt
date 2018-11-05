@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="aea560bf-a6f0-455b-8c88-d7e4181f4476">
+  <producedTypes>
+    <objectType typeId="b63a63f5-e661-441f-9121-7bf8e5ed7c1a" valueTypeId="ee461a7a-a533-401e-9f6a-f9203fc12949"/>
+    <refType typeId="3e7c9e25-ae06-4878-a284-c2fab8fe30f7" valueTypeId="222a8617-c6a3-46f4-a9a3-cc65488dd1d3"/>
+    <selectionType typeId="e88b3a2d-3983-40b5-81f0-d68788de4546" valueTypeId="be703660-ae45-407c-9510-e551f79b203c"/>
+    <listType typeId="4d3b28ec-2b01-4d98-b7eb-46910161f542" valueTypeId="ed80d89b-412c-417b-96b0-396f9607acf5"/>
+    <managerType typeId="f11119ff-4395-4916-8e4a-06442a350b54" valueTypeId="a120a33d-3dab-4749-8f4d-e54f3f9f0155"/>
+  </producedTypes>
+  <name>СтраныМира</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

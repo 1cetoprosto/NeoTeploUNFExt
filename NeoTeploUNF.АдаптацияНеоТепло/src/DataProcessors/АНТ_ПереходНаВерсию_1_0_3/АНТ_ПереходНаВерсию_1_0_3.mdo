@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="af88080c-fca7-4447-a7bc-c281dc504f0d">
+  <producedTypes>
+    <objectType typeId="b5efcc6f-ec4b-4d8a-8f45-b83249e6be6a" valueTypeId="b8a47828-56c3-4340-8bc4-99ee33dd67c1"/>
+    <managerType typeId="d9a2247b-a417-457f-b43b-20850ee6d501" valueTypeId="cb65c62e-a9cd-4471-83cf-7b54f27bb4fb"/>
+  </producedTypes>
+  <name>АНТ_ПереходНаВерсию_1_0_3</name>
+  <synonym>
+    <key>ru</key>
+    <value>АНТ переход на версию 1 0 3</value>
+  </synonym>
+  <comment></comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.АНТ_ПереходНаВерсию_1_0_3.Form.Форма</defaultForm>
+  <explanation>
+    <key>ru</key>
+    <value>Перенос данных с реквизитов расширений в реквизиты конфигурации. Глюки при обновлениях.</value>
+  </explanation>
+  <forms uuid="8353c590-30da-4500-85e1-38308d706ead">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

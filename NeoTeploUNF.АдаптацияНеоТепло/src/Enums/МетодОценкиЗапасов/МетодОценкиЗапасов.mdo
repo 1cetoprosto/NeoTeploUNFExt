@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="f2dcbc7f-0b6b-411c-bb6c-4877488d54e8">
+  <producedTypes>
+    <refType typeId="94d94bb1-f31b-432c-9d57-702bfba879bf" valueTypeId="b0abf7fe-998c-4c74-a598-f82409c25c5f"/>
+    <listType typeId="5fcda848-c973-412e-a6c8-85727ca0ffb6" valueTypeId="f428e9b4-0ebf-442b-8ddf-9389a47ada58"/>
+    <managerType typeId="99f045cd-91dc-4696-88c2-25514a44dca8" valueTypeId="e61f7196-5a3f-432f-a077-817df71cfcfe"/>
+  </producedTypes>
+  <name>МетодОценкиЗапасов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

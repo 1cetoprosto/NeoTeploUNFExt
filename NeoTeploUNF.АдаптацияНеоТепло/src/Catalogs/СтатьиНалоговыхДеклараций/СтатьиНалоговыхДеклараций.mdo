@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ddf11f6b-0242-4f44-8436-14c4ceede778">
+  <producedTypes>
+    <objectType typeId="00cf19e9-2b3e-48ef-8bc7-07d6dd0e9ccf" valueTypeId="fc12edfe-09b6-4f5b-b96a-e03b5c325697"/>
+    <refType typeId="017ecc95-063d-48ac-9f42-22325ed57283" valueTypeId="51db9a1a-ed74-4b58-8661-19c25deb3458"/>
+    <selectionType typeId="8bd28d18-8944-45f2-ba88-2ecdd9ee3832" valueTypeId="8fa11248-213c-413a-8df6-c485628b35ae"/>
+    <listType typeId="6a521eec-d072-4c08-962f-bd0b89011b74" valueTypeId="0e0b9a98-fd30-4902-8fe0-e7bba6345534"/>
+    <managerType typeId="359d5399-fb42-41fe-8a80-fdf2dc2b1b5a" valueTypeId="9b759721-c504-4159-bc4e-15eeb3d7723e"/>
+  </producedTypes>
+  <name>СтатьиНалоговыхДеклараций</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

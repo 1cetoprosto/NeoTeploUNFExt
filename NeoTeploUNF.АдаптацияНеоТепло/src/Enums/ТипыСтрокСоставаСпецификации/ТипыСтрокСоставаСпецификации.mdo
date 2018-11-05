@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="8e2a2fd1-1d4d-4d64-b038-261514fe2c03">
+  <producedTypes>
+    <refType typeId="e3fe7078-6a6f-4261-bdcb-ecfa2f7f8be0" valueTypeId="9abcd522-80f3-4145-90fa-ad84ae834ab1"/>
+    <listType typeId="a02cdb24-f61f-42dd-b1af-d56198ee6962" valueTypeId="9099ced1-4acc-4a36-ba11-92518e24b33d"/>
+    <managerType typeId="2e04de0b-f811-4b77-be02-0cd83a49d97b" valueTypeId="5cd2c692-b20f-422d-b4a7-5ffe3ec3167b"/>
+  </producedTypes>
+  <name>ТипыСтрокСоставаСпецификации</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

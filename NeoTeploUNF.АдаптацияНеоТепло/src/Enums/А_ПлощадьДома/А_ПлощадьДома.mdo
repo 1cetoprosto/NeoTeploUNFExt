@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="d04b20c6-a0c4-4836-873e-6562de79e567">
+  <producedTypes>
+    <refType typeId="416858ab-44c5-4cd1-aa8f-06532a13b8da" valueTypeId="7294587a-a89b-4856-8c00-5af9e50777fa"/>
+    <listType typeId="45709534-eb05-4511-b499-d01823013ba6" valueTypeId="8d9cf33f-0e9a-4749-90dc-0fe149acd827"/>
+    <managerType typeId="d0b38bb5-93db-4581-92a0-be47138b2336" valueTypeId="1709a1dd-ed5d-4b00-9d0b-48561fae51d4"/>
+  </producedTypes>
+  <name>А_ПлощадьДома</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

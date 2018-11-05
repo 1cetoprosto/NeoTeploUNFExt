@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="aebd4ca0-74eb-48a3-8f1a-7d16842279db">
+  <producedTypes>
+    <objectType typeId="1f326420-ba49-4cd2-981e-8295fde32f5d" valueTypeId="c70428dd-55d8-49bf-9694-e3266c0867aa"/>
+    <refType typeId="7de7df7c-d18c-4976-b2de-4d6e98360b8e" valueTypeId="6dc435e6-f964-4694-bac4-bce48ce6f5e8"/>
+    <selectionType typeId="e509daf2-cf0c-41d1-82e2-ec47cfb9bda8" valueTypeId="b9b45da2-5dab-419a-ad1b-8b89ccb79657"/>
+    <listType typeId="ffa62b0d-2450-44eb-a2b9-7e21c5d9bbb0" valueTypeId="00b026b0-d7f6-420e-a7eb-5dd5c5872977"/>
+    <managerType typeId="3c4c5443-f135-49de-b5fc-3d2f13cf1047" valueTypeId="da2c1c16-298d-4f01-b632-0d82b04b936e"/>
+  </producedTypes>
+  <name>КлассификаторАлкогольнойПродукцииЕГАИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

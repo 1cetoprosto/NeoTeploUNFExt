@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="57636b80-a164-4e92-8f97-4afbcc3aa76a">
+  <producedTypes>
+    <objectType typeId="b8247086-4caa-460b-82e0-1ae8afabf59f" valueTypeId="7f48d7cc-a5a2-4006-9111-93b74bf73fb7"/>
+    <refType typeId="241d1bd2-83ae-4599-aeea-73e8f547975c" valueTypeId="3a34f1c7-5348-44ca-be63-d8cdec43015c"/>
+    <selectionType typeId="56740538-3dbf-4da2-bd53-47e2d5260278" valueTypeId="a0b01e46-2ed7-4986-9336-84f1643eb40a"/>
+    <listType typeId="84c06782-d423-4378-8033-1f2686373813" valueTypeId="69fd3555-db8b-4ae8-aab1-f0598b655155"/>
+    <managerType typeId="4fc7419c-f387-453f-9fe7-b253510da978" valueTypeId="eaf774b8-7433-4423-9400-d26fb1f4bb29"/>
+  </producedTypes>
+  <name>ВидыЦен</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

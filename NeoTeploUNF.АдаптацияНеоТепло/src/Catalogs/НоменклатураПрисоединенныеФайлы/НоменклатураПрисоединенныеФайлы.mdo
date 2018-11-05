@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="cc508b04-9ca7-4c59-9899-437563f3352a">
+  <producedTypes>
+    <objectType typeId="076752b4-22cb-4995-9241-c07ec3577b96" valueTypeId="9d03daeb-1439-44d1-a4a8-f209fd2df0a5"/>
+    <refType typeId="f9bf1ae1-497b-45c1-b759-d00057152ada" valueTypeId="3e91e35a-8917-4acd-8b66-3b139c59435e"/>
+    <selectionType typeId="1f4f8b37-233a-4acd-b6f2-821aee13fe53" valueTypeId="0ecc0707-61bf-4f25-aa78-f1d2c808dbbc"/>
+    <listType typeId="9f940c0c-16fb-42ef-950d-f4cf92bdc5b8" valueTypeId="7933e7e4-e084-4f3f-baf8-4a44b2171a13"/>
+    <managerType typeId="7d3e778e-44bd-4d93-8175-840f815d515b" valueTypeId="41a16f43-fbef-418b-9443-1c96fcd716c9"/>
+  </producedTypes>
+  <name>НоменклатураПрисоединенныеФайлы</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CatalogExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

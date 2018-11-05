@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="fd1fd5a7-c44d-4624-8a7d-d493a4e7a9cc">
+  <producedTypes>
+    <refType typeId="59d24bdd-f498-4f32-abbb-de37657f020d" valueTypeId="57efd4eb-e594-4ae7-b114-ec91e54d9d2d"/>
+    <listType typeId="c4051682-9556-440a-b888-1868b0e8e31d" valueTypeId="fda4f1ac-d740-4a65-84ec-3fd15336c1ab"/>
+    <managerType typeId="b190ace1-999b-437a-91fc-28b96344b951" valueTypeId="28fc8f83-a79b-4743-aa4c-9a873bd006db"/>
+  </producedTypes>
+  <name>РазмерыКиЗГИСМ</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

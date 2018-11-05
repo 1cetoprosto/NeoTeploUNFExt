@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="0287854e-7619-4cb0-8ae7-d8666d564751">
+  <producedTypes>
+    <objectType typeId="07182319-7aad-4240-a9d8-a5a7f8013cc4" valueTypeId="a4471a45-1fff-4a8e-ad3f-c1b0f09d7f65"/>
+    <refType typeId="b31ba9d7-60a1-4ffe-8003-2d14cdd28239" valueTypeId="2ff4e4b4-2e79-4f5d-9778-707c281cb899"/>
+    <selectionType typeId="450c8d1c-436d-40d2-9fc7-e364c765889b" valueTypeId="2fe9bc9c-4547-4c8c-b5ec-2e1ee4d259c9"/>
+    <listType typeId="94c7fa78-2611-4dd0-afd7-a1f7a3e4ba95" valueTypeId="92973302-91a8-4825-a158-a60b749da73a"/>
+    <managerType typeId="4dd7b020-9832-49d3-a617-ae9e77f80634" valueTypeId="d08ee64f-d2e4-4993-9878-f8d3d0507a6c"/>
+  </producedTypes>
+  <name>А_КонвертацияВалюты</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>

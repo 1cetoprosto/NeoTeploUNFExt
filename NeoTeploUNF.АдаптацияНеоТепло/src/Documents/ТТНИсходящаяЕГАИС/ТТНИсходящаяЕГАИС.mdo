@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="cac83f3e-0c3c-471d-8c8e-9356b8b0de56">
+  <producedTypes>
+    <objectType typeId="a2a125aa-81c5-44c4-aa03-c6f49786c926" valueTypeId="5f948c76-788d-442a-bb1c-b9769a650fc3"/>
+    <refType typeId="75063e97-a01d-47ca-baa0-51ab5f60c767" valueTypeId="8d9e3b83-ca9f-410f-ba8a-cd715344d7bf"/>
+    <selectionType typeId="00d3e050-5211-42af-bd4a-915d63497f3c" valueTypeId="ecffcc07-e7f4-4f36-bac1-7eaabace0fab"/>
+    <listType typeId="97ce4021-f2c3-483b-a314-a0f0bfb91359" valueTypeId="a15bf6e8-213b-438b-a314-e7ddb724de29"/>
+    <managerType typeId="4e47be6a-0913-4404-baae-8a0978079145" valueTypeId="2b5a0262-8f65-4296-849f-1a09a50ea239"/>
+  </producedTypes>
+  <name>ТТНИсходящаяЕГАИС</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="4128e359-ca06-473d-8959-3312fc398ea1">
+    <name>СтатусОбработки</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>EnumRef.СтатусыОбработкиТТНИсходящейЕГАИС</types>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Document>
